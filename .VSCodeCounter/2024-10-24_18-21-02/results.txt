@@ -1,0 +1,48 @@
+Date : 2024-10-24 18:21:02
+Directory : c:\Users\lukep\SpaceDatingApp
+Total : 19 files,  16640 codes, 18 comments, 90 blanks, all 16748 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     16,161 |          0 |          3 |     16,164 |
+| JavaScript |         16 |        479 |         18 |         87 |        584 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         19 |     16,640 |         18 |         90 |     16,748 |
+| . (Files)                                                       |          6 |     16,200 |          3 |          8 |     16,211 |
+| api                                                             |          1 |          4 |          1 |          3 |          8 |
+| components                                                      |         11 |        391 |         13 |         77 |        481 |
+| styles                                                          |          1 |         45 |          1 |          2 |         48 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                        | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\lukep\SpaceDatingApp\App.js                            | JavaScript |         29 |          2 |          2 |         33 |
+| c:\Users\lukep\SpaceDatingApp\api\supabase.js                   | JavaScript |          4 |          1 |          3 |          8 |
+| c:\Users\lukep\SpaceDatingApp\app.json                          | JSON       |         27 |          0 |          1 |         28 |
+| c:\Users\lukep\SpaceDatingApp\babel.config.js                   | JavaScript |          6 |          0 |          1 |          7 |
+| c:\Users\lukep\SpaceDatingApp\components\CaptureFaceScreen.js   | JavaScript |         67 |          3 |         13 |         83 |
+| c:\Users\lukep\SpaceDatingApp\components\ChatScreen.js          | JavaScript |         54 |          1 |          9 |         64 |
+| c:\Users\lukep\SpaceDatingApp\components\FriendRequestScreen.js | JavaScript |         40 |          1 |          9 |         50 |
+| c:\Users\lukep\SpaceDatingApp\components\HomeScreen.js          | JavaScript |         14 |          1 |          3 |         18 |
+| c:\Users\lukep\SpaceDatingApp\components\LoginScreen.js         | JavaScript |         40 |          1 |          5 |         46 |
+| c:\Users\lukep\SpaceDatingApp\components\MatchScreen.js         | JavaScript |         29 |          1 |          7 |         37 |
+| c:\Users\lukep\SpaceDatingApp\components\ProfileScreen.js       | JavaScript |         39 |          1 |          9 |         49 |
+| c:\Users\lukep\SpaceDatingApp\components\RegisterScreen.js      | JavaScript |         44 |          1 |          7 |         52 |
+| c:\Users\lukep\SpaceDatingApp\components\SwipeScreen.js         | JavaScript |         44 |          1 |          9 |         54 |
+| c:\Users\lukep\SpaceDatingApp\components\UserCard.js            | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\lukep\SpaceDatingApp\components\faceEncoding.js        | JavaScript |         20 |          2 |          5 |         27 |
+| c:\Users\lukep\SpaceDatingApp\package-lock.json                 | JSON       |     16,098 |          0 |          1 |     16,099 |
+| c:\Users\lukep\SpaceDatingApp\package.json                      | JSON       |         36 |          0 |          1 |         37 |
+| c:\Users\lukep\SpaceDatingApp\styles\styles.js                  | JavaScript |         45 |          1 |          2 |         48 |
+| c:\Users\lukep\SpaceDatingApp\supabase.js                       | JavaScript |          4 |          1 |          2 |          7 |
+| Total                                                           |            |     16,640 |         18 |         90 |     16,748 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+

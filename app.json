@@ -10,18 +10,32 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+      
+      
     },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+    "extra": {
+      "eas": {
+        "projectId": "1e63f653-82f0-4c14-a6ab-f9ac216da8db"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "ios": {
+      "bundleIdentifier": "com.luke101.SpaceDatingApp"
     }
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "package": "com.luke101.SpaceDatingApp"
+  },
+  "web": {
+    "favicon": "./assets/favicon.png",
+    "bundler": "metro",
+    "port": 8081,
+    "host": "10.0.0.170"
   }
 }
